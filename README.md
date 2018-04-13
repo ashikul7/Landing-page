@@ -1,0 +1,1 @@
+Full responsive landing page with background full screen image
